@@ -1,0 +1,3 @@
+/Users/nisiman/Documents/Projects/cpp/http-server/cmake-build-debug/CMakeFiles/Http.dir
+/Users/nisiman/Documents/Projects/cpp/http-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nisiman/Documents/Projects/cpp/http-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
